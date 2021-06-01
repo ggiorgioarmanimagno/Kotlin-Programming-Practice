@@ -1,4 +1,4 @@
-//Write a Java program that will read in month and day
+//Write a kotlin program that will read in month and day
 // (as numerical value).
 // The program will return the equivalent zodiac sign.
 
